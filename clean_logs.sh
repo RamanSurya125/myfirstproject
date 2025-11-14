@@ -1,1 +1,1 @@
-This is a deployment file.
+#!/bin/bash
